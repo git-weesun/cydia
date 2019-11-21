@@ -1,7 +1,7 @@
-Origin: Origin_weesun
-Label: Label_weesun
+Origin: 小玮的个人源
+Label: weesun提供
 Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm
 Components: main
-Description: Description_weesun
+Description: weesun
